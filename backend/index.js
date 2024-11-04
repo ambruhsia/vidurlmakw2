@@ -14,8 +14,8 @@ app.use(cors());
  
 // app.use(express.static('stories'));
 // const apiKey = process.env.OPENAI_API_KEY; 
+//complete code not uploaded on github 
 
-const g  = new GPTScript();
 
  
 
